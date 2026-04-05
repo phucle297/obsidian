@@ -179,7 +179,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Image"
+              "title": "Mind Map of Linking and Navigating"
             }
           },
           {
@@ -246,7 +246,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "49cd5420235c63b5",
+  "active": "a55bf76c98b40974",
   "lastOpenFiles": [
     "NextJS/Image.md",
     "NextJS/Linking and Navigating.md",
