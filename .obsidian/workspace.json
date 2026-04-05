@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9b3aceadf5eff7a9",
+        "id": "138dbcac0919635f",
         "type": "tabs",
         "children": [
           {
-            "id": "49cd5420235c63b5",
+            "id": "46e91aff856e603d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NextJS/Linking and Navigating.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Linking and Navigating"
+              "title": "New tab"
             }
           }
         ]
@@ -125,13 +120,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NextJS/Linking and Navigating.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linking and Navigating"
+              "title": "Outline"
             }
           },
           {
@@ -179,7 +173,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Linking and Navigating"
+              "title": "Mind Map of Metadata and OG Images"
             }
           },
           {
@@ -188,7 +182,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NextJS/Linking and Navigating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linking and Navigating"
+              "title": "Backlinks"
             }
           },
           {
@@ -206,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "NextJS/Linking and Navigating.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -221,6 +212,19 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "3d12e24fdc47b740",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           }
         ],
@@ -242,14 +246,16 @@
       "terminal:Open terminal": false,
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a55bf76c98b40974",
+  "active": "46e91aff856e603d",
   "lastOpenFiles": [
-    "NextJS/Image.md",
+    "NextJS/Metadata and OG Images.md",
+    "Untitled/Untitled.md",
     "NextJS/Linking and Navigating.md",
+    "Untitled",
+    "NextJS/Image.md",
     "Untitled mindmap.md",
     "NextJS",
     "Untitled.base",
@@ -279,8 +285,6 @@
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "2026-04-04.md"
+    "copilot/copilot-custom-prompts"
   ]
 }
